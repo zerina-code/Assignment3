@@ -1,0 +1,67 @@
+Top 10 employees with highest salary per employee type:
+
+Employee type: Sales:
+
+1. Mara Sinegold - Salary: 12676
+2. Cherilyn Tjon - Salary: 12667
+3. Elora Rurik - Salary: 12661
+4. Lynde Jefferey - Salary: 12563
+5. Stephanie Rad - Salary: 12558
+6. Aurelie Decato - Salary: 12517
+7. Sadie Orelee - Salary: 12492
+8. Consuela Fancie - Salary: 12479
+9. Taffy Adalbert - Salary: 12477
+10. Dominga Wandie - Salary: 12383
+
+Employee type: Managers:
+
+1. Emma Wu - Salary: 17769
+2. Aili Yate - Salary: 17692
+3. Shirlee Koehler - Salary: 17497
+4. Iseabal Olnee - Salary: 17448
+5. Doro Kunin - Salary: 17320
+6. Devina Leary - Salary: 17303
+7. Doralynne Lindemann - Salary: 17218
+8. Dode Serilda - Salary: 17149
+9. Dotty Kelula - Salary: 17148
+10. Harrietta Grobe - Salary: 17104
+
+Employee type: Workers:
+
+1. Audrie Kinnard - Salary: 8822
+2. Rubie Kenwood - Salary: 8738
+3. Zia Fulmer - Salary: 8640
+4. Elyssa Stilwell - Salary: 8575
+5. Bernardine Danby - Salary: 8398
+6. Farrah Haldas - Salary: 8377
+7. Blondelle Therine - Salary: 8334
+8. Marguerite Tomasina - Salary: 8320
+9. Raquela Ramona - Salary: 8311
+10. Alyda Amadas - Salary: 8242
+
+Employee type: Freelancers:
+
+1. Nikki Brunell - Salary: 38808
+2. Janis Old - Salary: 37440
+3. Lyssa Mallon - Salary: 36616
+4. Minne Fancie - Salary: 35720
+5. Blinni Tiffa - Salary: 35084
+6. Xylina Diann - Salary: 34752
+7. Brandise Kamaria - Salary: 34029
+8. Edyth Elbertina - Salary: 33756
+9. Elsie Olnee - Salary: 33300
+10. Sindee Saint - Salary: 33264
+
+Employee type: Interns:
+
+1. Abbie Pauly - Salary: 0
+2. Starla Maryanne - Salary: 0
+3. Jolyn Sawtelle - Salary: 0
+4. Tersina Joli - Salary: 0
+5. Willetta Tristram - Salary: 0
+6. Marcy Lutero - Salary: 0
+7. Regina Shuler - Salary: 0
+8. Ashlee Velick - Salary: 0
+9. Liana Grimbly - Salary: 0
+10. Dale Cynar - Salary: 0
+

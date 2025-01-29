@@ -1,0 +1,12 @@
+Top 10 employees with highest salary: 
+
+1.Nikki Brunell - Salary: 38808
+2.Janis Old - Salary: 37440
+3.Lyssa Mallon - Salary: 36616
+4.Minne Fancie - Salary: 35720
+5.Blinni Tiffa - Salary: 35084
+6.Xylina Diann - Salary: 34752
+7.Brandise Kamaria - Salary: 34029
+8.Edyth Elbertina - Salary: 33756
+9.Elsie Olnee - Salary: 33300
+10.Sindee Saint - Salary: 33264

@@ -1,0 +1,46 @@
+Top 10 employees across departments: 
+
+Department: operations
+1.Brandise Kamaria, Department: operations, salary: 34029
+2.Jillayne Garrison, Department: operations, salary: 32636
+3.Feliza Sherrie, Department: operations, salary: 32016
+4.Heddie Larochelle, Department: operations, salary: 31850
+5.Nita Tamsky, Department: operations, salary: 30100
+6.Kirbee Luhe, Department: operations, salary: 28855
+7.Tani Darian, Department: operations, salary: 28055
+8.Adriana Jacqui, Department: operations, salary: 25488
+9.Winny Estella, Department: operations, salary: 25404
+10.Dale Lasley, Department: operations, salary: 25137
+Department: production
+1.Janis Old, Department: production, salary: 37440
+2.Blinni Tiffa, Department: production, salary: 35084
+3.Augustine Holbrook, Department: production, salary: 32550
+4.Elvira Diann, Department: production, salary: 29370
+5.Sadie Whittaker, Department: production, salary: 29225
+6.Nessie Charmine, Department: production, salary: 29055
+7.Hayley Riordan, Department: production, salary: 28565
+8.Bertine Hertzfeld, Department: production, salary: 28520
+9.Darci Forrer, Department: production, salary: 26880
+10.Bibby Wandie, Department: production, salary: 26634
+Department: it
+1.Nikki Brunell, Department: it, salary: 38808
+2.Xylina Diann, Department: it, salary: 34752
+3.Sindee Saint, Department: it, salary: 33264
+4.Renie Randene, Department: it, salary: 29410
+5.Marline Harl, Department: it, salary: 29230
+6.Hayley Brotherson, Department: it, salary: 24402
+7.Alie Sherrie, Department: it, salary: 24070
+8.Kayla Rudolph, Department: it, salary: 24056
+9.Marika Hollingsworth, Department: it, salary: 23085
+10.Claresta Ajay, Department: it, salary: 21840
+Department: sales
+1.Lyssa Mallon, Department: sales, salary: 36616
+2.Edyth Elbertina, Department: sales, salary: 33756
+3.Elsie Olnee, Department: sales, salary: 33300
+4.Jackie Hoenack, Department: sales, salary: 25350
+5.Giustina Howlyn, Department: sales, salary: 23111
+6.Helsa Lemuela, Department: sales, salary: 22842
+7.Glynnis Clywd, Department: sales, salary: 22185
+8.Lynnea Naor, Department: sales, salary: 21716
+9.Kirstin Zenas, Department: sales, salary: 21646
+10.Paule Roche, Department: sales, salary: 21456
